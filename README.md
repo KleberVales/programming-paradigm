@@ -1,1 +1,1 @@
-# programming-paradigm
+# Programming paradigm
