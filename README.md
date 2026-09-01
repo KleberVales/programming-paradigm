@@ -11,3 +11,4 @@
 ## 2. Procedural programming paradigm
 
 ### Procedures/Functions
+### Sequential execution
