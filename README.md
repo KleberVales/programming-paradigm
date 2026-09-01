@@ -6,5 +6,6 @@
 ### Encapsulation
 ### Inheritance
 ### Polymorphism
+### Abstraction
 
 ## 2. Procedural programming paradigm
