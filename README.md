@@ -13,3 +13,4 @@
 ### Procedures/Functions
 ### Sequential execution
 ### Global and local state
+### Modularity through decomposition
