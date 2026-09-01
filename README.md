@@ -4,5 +4,6 @@
 
 ### Class and Object
 ### Encapsulation
+### Inheritance
 
 ## 2. Procedural programming paradigm
