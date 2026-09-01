@@ -12,3 +12,4 @@
 
 ### Procedures/Functions
 ### Sequential execution
+### Global and local state
