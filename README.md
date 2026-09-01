@@ -14,3 +14,5 @@
 ### Sequential execution
 ### Global and local state
 ### Modularity through decomposition
+
+https://github.com/KleberVales/programming-paradigm/wiki
